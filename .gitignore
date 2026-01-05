@@ -1,0 +1,6 @@
+style_samples/
+Ornamentation/checkpoints/
+Ornamentation/labels
+Ornamentation/skeletons
+home/
+__pycache__/
