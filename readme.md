@@ -48,7 +48,7 @@ sdt
 ### SDT
 
 - Clone SDT repo in current working directory (`sdt`), then you should have folder `SDT`
-- Download its dataset and put move it to `sdt` diroctory
+- Download its Chinese dataset and put move it to `sdt` diroctory
 - Replace link `data` in `SDT` with new link (as is shown in [Folder Structure](#folder-structure))
 - Add `__init__.py` in `SDT`
 - Put our `fine_trained.pth` in `SDT`
